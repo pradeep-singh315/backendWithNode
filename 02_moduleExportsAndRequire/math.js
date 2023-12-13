@@ -17,7 +17,7 @@ const div = (a, b) => {
 const PI = 3.14
 const g = 9.8
 
-// module.exports = "Hello, ecxports is working properly..."
+// module.exports = "Hello, exports is working properly..."
 
 let obj = {
     sum : sum,
